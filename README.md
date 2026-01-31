@@ -1,2 +1,2 @@
 # Sigma-demo
-this is demo repository file
+this is demo repository file.
